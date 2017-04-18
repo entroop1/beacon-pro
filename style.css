@@ -1,0 +1,21 @@
+
+.par {
+    position:relative;
+    height:400px;
+}
+
+
+ 	
+.layer-1 {
+    position:absolute;
+    margin-left:-50px;}
+
+.layer-2 {
+    position:absolute;
+    margin-left:100px;}
+
+.layer-3 {
+    position:absolute;}
+
+
+
